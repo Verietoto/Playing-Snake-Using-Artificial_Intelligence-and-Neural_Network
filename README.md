@@ -32,5 +32,4 @@ Therefore there will be 24 input neurons (8 distance to wall, 8 distance to food
 <strong> Parameters.py </strong> contain all parameter value such as neural network shape, grid size, arena color, population number</br>
 <strong> Training/Genetic_Snake..py </strong> control genetic algorithm process
 
-Here is a example gif of how it looks like
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59665617/99032999-12ce1e00-25ad-11eb-98df-b8801a497248.gif)
