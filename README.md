@@ -33,3 +33,11 @@ Therefore there will be 24 input neurons (8 distance to wall, 8 distance to food
 <strong> Training/Genetic_Snake..py </strong> control genetic algorithm process
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59665617/99032999-12ce1e00-25ad-11eb-98df-b8801a497248.gif)
+
+
+## ACKNOWLEDGEMENT
+
+I am inspired by a youtuber named code bullet for the method to play snakes
+
+Code Bullet Youtubbe Link: https://www.youtube.com/results?search_query=code+bullet
+My Youtube Link: https://youtu.be/sQCklZbfF48
